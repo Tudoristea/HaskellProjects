@@ -7,3 +7,4 @@ I wrote Crypto.hs on my second week using Haskell, the terminal, git and VS Code
 Haskell was the first language I studied at Imperial.
 After Haskell, I have learned Java extensively and then C in my first year. 
 During the summer break I spent a lot of time with Flutter, coding Hyuga.
+I also added my interim and final exam. Those were held under exam conditions and lasted exactly 3 hours each.
